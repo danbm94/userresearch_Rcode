@@ -1,6 +1,5 @@
 ##### Test code for the guithub repo
 ##test
-a <- 23
-b <- "Cuarenta"
-print(a)
-a
+A <- matrix(c(1,2,3,4,5,6,7,8,9),nrow = 3,byrow = TRUE)
+A
+
