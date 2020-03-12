@@ -10,6 +10,9 @@ The task is to set the technical foundation and introduce a workflow by using Rs
 
 The first step is to download git:
 https://www.git-scm.com/
+
+(Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows. Wikipedia)
+
 Secondly, open the Terminal and run the following lines (You have to create a github account):
 
 git config --global	user.name “Your	Username”
