@@ -7,3 +7,6 @@ A
 print("Hello World")
 
 #Onefootball
+if (sum(A)>40){
+  print("Nice")
+}
