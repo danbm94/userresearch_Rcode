@@ -5,3 +5,6 @@ A
 
 #### New entry Thursday March 12th
 print("Hello World")
+if (sum(A)>40){
+  print("Nice")
+}
