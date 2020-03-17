@@ -13,5 +13,7 @@ if (sum(A)>40){
 
 ####Pulling the data from the repository
 library(httr)
-mx <- read.csv("userresearch_github_code.Rproj
-               ")
+
+mx <- read.csv(file = "July 19  MX galleries and news.csv")
+View(mx)
+
