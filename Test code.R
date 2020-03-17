@@ -10,3 +10,8 @@ print("Hello World")
 if (sum(A)>40){
   print("Nice")
 }
+
+####Pulling the data from the repository
+library(httr)
+mx <- read.csv("userresearch_github_code.Rproj
+               ")
