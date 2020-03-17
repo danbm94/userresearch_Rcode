@@ -10,3 +10,5 @@ print("Hello World")
 if (sum(A)>40){
   print("Nice")
 }
+mx <- read.csv(file = "July 19  MX galleries and news.csv")
+View(mx)
