@@ -17,3 +17,6 @@ library(httr)
 mx <- read.csv(file = "July 19  MX galleries and news.csv")
 View(mx)
 
+#New comment 
+install.packages("rgeolocate")
+library(rgeolocate)
