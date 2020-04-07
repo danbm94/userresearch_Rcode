@@ -20,3 +20,11 @@ View(mx)
 #New comment 
 install.packages("rgeolocate")
 library(rgeolocate)
+
+#New comment
+
+B=A*2
+
+
+
+
