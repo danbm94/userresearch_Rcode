@@ -7,6 +7,8 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+# install.packages("devtools")
+devtools::install_github("MilesMcBain/markdrive")
 
 ```
 
@@ -21,9 +23,11 @@ mx <- read.csv("July 19  MX galleries and news.csv")
 ```
 
 ## Reading the data
-I have now imported the data from the github repo. Now we work on the data
-##Data cleaning
-## Header 2
+I have now imported the data from the github repo. Now we work on the data  
+
+## Data cleaning
+
+### Header 2
 `code chunk (not executable)`  
 `x<-34`
 
