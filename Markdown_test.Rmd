@@ -37,8 +37,8 @@ I have now imported the data from the github repo. Now we work on the data
 ## Data cleaning
 
 ### Header 2
-`code chunk (not executable)`  
-`x<-34`
+```code chunk (not executable)```
+```x<-34```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
