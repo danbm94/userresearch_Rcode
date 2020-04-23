@@ -46,3 +46,8 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ```{r, echo=TRUE}
 dim(mx)
 ```
+### Creation of a website
+```{r , echo=FALSE}
+
+rmarkdown::render_site()
+
