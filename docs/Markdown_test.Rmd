@@ -23,7 +23,7 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 ```{r, echo=TRUE}
-mx <- read.csv("July 19  MX galleries and news.csv")
+mx <- read.csv("MX_survey.csv")
 
 x <- 5
 b <- 34
@@ -47,7 +47,4 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 dim(mx)
 ```
 ### Creation of a website
-```{r , echo=FALSE}
-
-rmarkdown::render_site()
 
