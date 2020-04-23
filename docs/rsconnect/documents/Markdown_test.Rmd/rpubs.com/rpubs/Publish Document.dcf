@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/603533/cee8a9a390994d3f8259518ba9f8718e
+bundleId: https://api.rpubs.com/api/v1/document/603533/cee8a9a390994d3f8259518ba9f8718e
+url: http://rpubs.com/dabuma94/603533
+when: 1587649823.85055

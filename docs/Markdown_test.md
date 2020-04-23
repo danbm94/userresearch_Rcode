@@ -1,0 +1,49 @@
+Test Markdown
+================
+daniel.bustillo
+4/14/2020
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax
+for authoring HTML, PDF, and MS Word documents. For more details on
+using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that
+includes both content as well as the output of any embedded R code
+chunks within the document. You can embed an R code chunk like this:
+
+``` r
+mx <- read.csv("MX_survey.csv")
+
+x <- 5
+b <- 34
+c <- x+x+b*pi
+c
+```
+
+    ## [1] 116.8142
+
+## Reading the data
+
+I have now imported the data from the github repo. Now we work on the
+data
+
+## Data cleaning
+
+### Header 2
+
+`code chunk (not executable)` `x<-34`
+
+Note that the `echo = FALSE` parameter was added to the code chunk to
+prevent printing of the R code that generated the plot.
+
+### Dimensions of the dataset
+
+``` r
+dim(mx)
+```
+
+    ## [1] 15983    70
+
+### Creation of a website
